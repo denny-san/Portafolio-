@@ -1,11 +1,25 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# Portafolio Profesional SOC - Denny Sánchez
 
-  <h1>Built with AI Studio</h2>
+Este es el código fuente para mi portafolio de Analista de Seguridad.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 Instrucciones de Configuración
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Para que el portafolio se vea correctamente, debes seguir estos pasos en tu repositorio de GitHub:
 
-</div>
+1. **Crear carpeta de imágenes**: Crea una carpeta llamada `IMG` en la raíz del proyecto.
+2. **Subir tus fotos**: Coloca tus imágenes dentro de esa carpeta con los siguientes nombres exactos (o actualiza las rutas en `Certs.tsx` y `About.tsx`):
+   - `DENNY IMG.jpg` (Fondo del Hero)
+   - `IMG DENNY.JPEG` (Tu foto de perfil)
+   - `ANALISTA SOC.jpg`
+   - `ANALISIS MALWARE.png`
+   - `COMPTIA SEGURITY.png`
+   - `COMPTIA CYSA.jpg`
+   - `CIBERSEGURIDAD INTRO.png`
+   - `BASICO REDES.png`
+
+## 🛠️ Tecnologías
+- React 19
+- Tailwind CSS
+- Gemini API (Asistente de IA)
+- Material Symbols
